@@ -3,7 +3,77 @@
     "id": "announcement-001",
     "imageUrl": "https://i.pinimg.com/736x/f2/72/94/f272943e5355a948e9430a8c79e6f1cb.jpg",
     "heading": "New Features Now Live",
-    "description": "We are excited to <br>announce<br> a major update including one-click installations, automatic updates, and a redesigned browse experience. Explore the new features today!",
+    "description": "
+      <!-- Simple -->
+      <p>
+        We are excited to announce a major update including one-click installations, automatic updates, and a redesigned browsing experience. Explore the new features today!
+      </p>
+
+      <!-- Emphasized -->
+      <p>
+        We are <strong>excited to announce</strong> a major update including <strong>one-click installations</strong>, <strong>automatic updates</strong>, and a <strong>redesigned browsing experience</strong>. <a href='https://obeepo.in' aria-label='Explore new features'>Explore the new features today!</a>
+      </p>
+
+      <!-- With CTA styled as a button -->
+      <p style='font-family:system-ui,-apple-system,\"Segoe UI\",Roboto,Arial; font-size:16px; line-height:1.5; color:#111;'>
+        We are <strong>excited to announce</strong> a major update including <strong>one-click installations</strong>, <strong>automatic updates</strong>, and a <strong>redesigned browsing experience</strong>.
+        <a href='https://obeepo.in' style='display:inline-block; margin-left:12px; padding:8px 14px; background:#0b63d6; color:#fff; text-decoration:none; border-radius:6px;' role='button'>Explore the new features today!</a>
+      </p>
+
+      <!-- Email-friendly -->
+      <p style='font-family:Arial,Helvetica,sans-serif; font-size:14px; color:#222; margin:0 0 12px 0;'>
+        We are <strong>excited to announce</strong> a major update including <strong>one-click installations</strong>, <strong>automatic updates</strong>, and a <strong>redesigned browsing experience</strong>. 
+        <a href='https://obeepo.in' style='color:#1a73e8; text-decoration:underline;'>Explore the new features today!</a>
+      </p>
+
+      <!-- Compact -->
+      <p>
+        Excited to announce: one-click installations, automatic updates, and a redesigned browsing experience — <a href='https://obeepo.in'>explore the new features today</a>.
+      </p>
+
+      <!-- Accessible live announcement -->
+      <p aria-live='polite'>
+        We are excited to announce a major update including one-click installations, automatic updates, and a redesigned browsing experience. <a href='https://obeepo.in' aria-label='Explore the new features'>Explore the new features today!</a>
+      </p>
+
+      <!-- Hero-style -->
+      <div style='padding:28px 24px; background:#f6fbff; border-radius:12px; text-align:left; max-width:900px;'>
+        <p style='font-size:20px; margin:0 0 12px 0; font-weight:600;'>
+          We are excited to announce a major update — with <span style='font-weight:700;'>one-click installations</span>, <span style='font-weight:700;'>automatic updates</span>, and a <span style='font-weight:700;'>redesigned browsing experience</span>.
+        </p>
+        <p style='margin:0;'>
+          <a href='https://obeepo.in' style='display:inline-block; padding:10px 16px; background:#0b63d6; color:#fff; text-decoration:none; border-radius:8px;'>Explore the new features today</a>
+        </p>
+      </div>
+
+      <!-- Inline feature list -->
+      <p>
+        We are excited to announce a major update including <strong>one-click installations</strong>, <strong>automatic updates</strong>, and a <strong>redesigned browsing experience</strong> — all built to make your workflow faster. <a href='https://obeepo.in'>Explore the new features today!</a>
+      </p>
+
+      <!-- With small meta -->
+      <p style='font-family:Inter,system-ui,Arial; font-size:15px; color:#333;'>
+        <small style='color:#6b7280;'>Update —</small>
+        We are excited to announce a major update including one-click installations, automatic updates, and a redesigned browsing experience. <a href='https://obeepo.in' style='margin-left:8px; color:#0b63d6;'>Explore the new features today!</a>
+      </p>
+
+      <!-- Technical -->
+      <p>
+        We are excited to announce a major update: <code>one-click installations</code>, <code>automatic updates</code>, and a <code>redesigned browsing experience</code>. <a href='https://obeepo.in' rel='noopener'>Explore the new features today!</a>
+      </p>
+
+      <!-- Expandable -->
+      <details>
+        <summary>We are excited to announce a major update — click to read highlights</summary>
+        <p>Highlights include one-click installations, automatic updates, and a redesigned browsing experience. <a href='https://obeepo.in'>Explore the new features today!</a></p>
+      </details>
+
+      <!-- Badge -->
+      <p>
+        <span style='display:inline-block; padding:2px 8px; background:#e6f0ff; color:#0b63d6; border-radius:12px; font-weight:600; font-size:12px; margin-right:8px;'>New</span>
+        We are excited to announce a major update including one-click installations, automatic updates, and a redesigned browsing experience. <a href='https://obeepo.in'>Explore the new features today!</a>
+      </p>
+    ",
     "date": "2025-09-22",
     "linkUrl": "https://obeepo.in"
   }
