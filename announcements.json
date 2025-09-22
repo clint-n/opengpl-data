@@ -3,7 +3,7 @@
     "id": "announcement-001",
     "imageUrl": "https://i.pinimg.com/736x/f2/72/94/f272943e5355a948e9430a8c79e6f1cb.jpg",
     "heading": "New Features Now Live",
-    "description": "We are excited to announce a major update including one-click installations, automatic updates, and a redesigned browse experience. Explore the new features today!",
+    "description": "We are excited to <br>announce<br> a major update including one-click installations, automatic updates, and a redesigned browse experience. Explore the new features today!",
     "date": "2025-09-22",
     "linkUrl": "https://obeepo.in"
   }
